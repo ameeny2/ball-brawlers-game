@@ -1,0 +1,29 @@
+Ball Brawlers
+Copyright (c) 2026 ameeny2 (mrdark7177@gmail.com). All rights reserved.
+
+The game "Ball Brawlers" is FREE to download and play.
+
+YOU MAY:
+  - Download, install, and play the game for free, for personal use.
+  - Share the link to the official download page.
+
+YOU MAY NOT, without prior written permission from the copyright holder:
+  - Sell, sublicense, rent, or charge money for the game or any part of it.
+  - Redistribute, re-host, mirror, or repackage the game or its files.
+  - Copy, extract, modify, or reuse the game's source code, artwork, sounds,
+    or other assets in any other project.
+  - Reverse engineer, decompile, or disassemble the game, except where such a
+    restriction is prohibited by applicable law.
+
+DISCLAIMER: THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE GAME OR THE USE OR OTHER DEALINGS IN THE GAME.
+
+---
+Built with the Godot Engine (https://godotengine.org), which is licensed under
+the MIT License: Copyright (c) 2014-present Godot Engine contributors and
+Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur. Godot's license applies
+only to the engine, not to this game's own code and assets.
