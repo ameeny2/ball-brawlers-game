@@ -8,7 +8,6 @@ deadlier and deadlier opponents. **Free to play.**
 - 🪟 **Windows:** grab the latest **[Release](../../releases/latest)**, download
   `ball-brawlers-windows.zip`, unzip, and run `BallGame.exe`.
 - 🌐 **Browser / phone:** playable on **itch.io** — _link coming soon_.
-- 🤖 **Android:** `.apk` coming soon.
 
 ## 🎮 How to play
 - Your ball moves and bounces on its own — **positioning and timing** win fights.
